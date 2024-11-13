@@ -1,0 +1,9 @@
+### Renesas e2 studio specific ignore files/folders
+DefaultBuild/
+trash/
+*.mtud
+.settings/
+
+### IAR Embedded Workbench specific ignore files/folders
+Debug/
+settings/
